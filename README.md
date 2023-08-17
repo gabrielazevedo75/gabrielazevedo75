@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Gabriel Almeida
-- 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning Django and Asp.net
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Asp.net
 - 📫 Linkedin - gabrielazevedo76
 
 <!---
